@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6282352239289'] // Put your number here
+global.owner = ['6282352239289'] // ['6285754058907']
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -28,11 +28,11 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'punya... '
-global.author = ' antum'
+global.packname = 'SIAP MELAYANI ANDA'
+global.author = 'Wibuu'
 global.email = 'ozan6825@hotmail'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '© ZaBot-MD'
+global.wm = '© VIPBOT-MD'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
